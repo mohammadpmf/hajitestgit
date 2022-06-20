@@ -1,2 +1,6 @@
-*.txt
+*.mp3
+.idea/
 sample/
+venv/
+__pycache__/
+
